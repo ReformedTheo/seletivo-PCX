@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Raquel Mendes",
+    "job": "SU",
+    "salary": "9185.46",
+    "admission": "2019-05-07",
+    "active": 0
+  },
+  {
+    "name": "Beatriz da Costa",
+    "job": "AN",
+    "salary": "8076.24",
+    "admission": "2016-02-08",
+    "active": 0
+  },
+  {
+    "name": "Vit\u00f3ria Mendes",
+    "job": "AN",
+    "salary": "5622.26",
+    "admission": "2017-03-06",
+    "active": 0
+  },
+  {
+    "name": "Jo\u00e3o Pedro Peixoto",
+    "job": "AN",
+    "salary": "5502.49",
+    "admission": "2013-10-18",
+    "active": 0
+  },
+  {
+    "name": "Dr. Augusto Arag\u00e3o",
+    "job": "AN",
+    "salary": "7287.94",
+    "admission": "2021-09-23",
+    "active": 0
+  },
+  {
+    "name": "Fernando Rodrigues",
+    "job": "MA",
+    "salary": "9630.26",
+    "admission": "2016-05-06",
+    "active": 0
+  },
+  {
+    "name": "Luiz Miguel Lima",
+    "job": "MA",
+    "salary": "5334.09",
+    "admission": "2016-10-05",
+    "active": 0
+  },
+  {
+    "name": "Gustavo Henrique Lima",
+    "job": "TE",
+    "salary": "6398.95",
+    "admission": "2021-12-17",
+    "active": 0
+  },
+  {
+    "name": "Diogo Rocha",
+    "job": "AN",
+    "salary": "6404.65",
+    "admission": "2020-05-21",
+    "active": 0
+  },
+  {
+    "name": "Let\u00edcia Pinto",
+    "job": "MA",
+    "salary": "9673.92",
+    "admission": "2023-07-26",
+    "active": 0
+  },
+  {
+    "name": "Maria Fernanda Moraes",
+    "job": "MA",
+    "salary": "6484.28",
+    "admission": "2021-06-25",
+    "active": 0
+  },
+  {
+    "name": "Rebeca Lopes",
+    "job": "DE",
+    "salary": "8371.12",
+    "admission": "2021-01-11",
+    "active": 0
+  },
+  {
+    "name": "Vinicius Pereira",
+    "job": "TE",
+    "salary": "5302.72",
+    "admission": "2022-11-29",
+    "active": 0
+  },
+  {
+    "name": "Henrique Alves",
+    "job": "TE",
+    "salary": "6257.24",
+    "admission": "2017-02-26",
+    "active": 0
+  },
+  {
+    "name": "Milena Costa",
+    "job": "SU",
+    "salary": "6062.67",
+    "admission": "2022-09-07",
+    "active": 0
+  }
+]
