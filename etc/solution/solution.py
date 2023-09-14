@@ -11,7 +11,7 @@ data = request.json()
 
 #store data in JSON
 with open('data.json', 'w') as f:
-    json.dump(data, f)
+    json.dump(data, f, indent=4)
 
 #functions to calculate requested infos
 
